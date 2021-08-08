@@ -57,3 +57,12 @@
   box-shadow: var(--box-shadow);
   color: whitesmoke;
 }
+
+p.para {
+  color: var(--text-color);
+  font: normal 500 16px/ 25px var(--roboto);
+}
+
+.font-roboto {
+  font-family: var(--roboto);
+}
